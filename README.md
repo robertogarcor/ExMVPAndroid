@@ -1,2 +1,2 @@
 # ExMVPAndroid
-List Movie MVP and Wiew binding in Kotlin for Android 
+List Movie MVP and View binding in Kotlin for Android 
